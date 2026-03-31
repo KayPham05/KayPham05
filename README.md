@@ -4,7 +4,8 @@
 <!--                  HEADER SVG                   -->
 <!-- ══════════════════════════════════════════════ -->
 
-img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7c3aed,100:ff6b35&height=200&section=header&text=Kha%20Pham&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20C%23%20%7C%20ASP.NET%20Core%20%7C%20Flutter&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7c3aed,100:ff6b35&height=200&section=header&text=Kha%20Pham&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20C%23%20%7C%20ASP.NET%20Core%20%7C%20Flutter&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+
 <!-- ══════════════════════════════════════════════ -->
 <!--                 TYPING EFFECT                 -->
 <!-- ══════════════════════════════════════════════ -->
@@ -73,6 +74,7 @@ public class KhaPham : Developer
 
 ### 🗄️ Database & Tools
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
