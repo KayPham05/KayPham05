@@ -4,7 +4,7 @@
 <!--                  HEADER SVG                   -->
 <!-- ══════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7c3aed,100:ff6b35&height=200&section=header&text=Kha%20Pham&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20C#%20%7C%20ASP.Net%20Core%20%7C%20Flutter&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7c3aed,100:ff6b35&height=200&section=header&text=Kha%20Pham&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20&C#&%20%7C%20&ASP.Net&%20&Core&%20%7C%20Flutter&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- ══════════════════════════════════════════════ -->
 <!--                 TYPING EFFECT                 -->
